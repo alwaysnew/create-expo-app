@@ -1264,16 +1264,16 @@
     "@types/react" "*"
 
 "@types/react-native@~0.63.2":
-  version "0.63.23"
-  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.63.23.tgz#bc4617e5bbb1ac28cb5dbf7ad09cc49a2cce914c"
-  integrity sha512-4pWQpgyzX+vCEJDceW9Zsc8/SZtJrIUIw9lwYKeTWAtSHWdcRwUns2O/18L98WGo6NUNVdLzY59vOW8ZGWJxSA==
+  version "0.63.25"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.63.25.tgz#a08bbe17a75cce993f52655a8fe75f30bf77e965"
+  integrity sha512-cRm+1iQecewpFYOArYJoM1qGd0JpFJ6f97KqIy9H2GawAdWkgyarSk8CBy4SMt2WOtPkysCu2EG7UwIT3vNeaA==
   dependencies:
     "@types/react" "*"
 
 "@types/react@*", "@types/react@~16.9.35":
-  version "16.9.50"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.50.tgz#cb5f2c22d42de33ca1f5efc6a0959feb784a3a2d"
-  integrity sha512-kPx5YsNnKDJejTk1P+lqThwxN2PczrocwsvqXnjvVvKpFescoY62ZiM3TV7dH1T8lFhlHZF+PE5xUyimUwqEGA==
+  version "16.9.51"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.51.tgz#f8aa51ffa9996f1387f63686696d9b59713d2b60"
+  integrity sha512-lQa12IyO+DMlnSZ3+AGHRUiUcpK47aakMMoBG8f7HGxJT8Yfe+WE128HIXaHOHVPReAW0oDS3KAI0JI2DDe1PQ==
   dependencies:
     "@types/prop-types" "*"
     csstype "^3.0.2"
@@ -1559,9 +1559,9 @@ babel-plugin-module-resolver@^3.2.0:
     resolve "^1.4.0"
 
 babel-plugin-react-native-web@~0.13.6:
-  version "0.13.14"
-  resolved "https://registry.yarnpkg.com/babel-plugin-react-native-web/-/babel-plugin-react-native-web-0.13.14.tgz#043954626cdfc88d6c6ce7f72b9ea82ef122914d"
-  integrity sha512-OwHMOFilnBtQxKxqobxBC6hOgomzbB1vJiuXXkOpbshb7/CmOHDEkPfb/+QRoLZ0VH4te+yaFqcAcE03U7hIWw==
+  version "0.13.15"
+  resolved "https://registry.yarnpkg.com/babel-plugin-react-native-web/-/babel-plugin-react-native-web-0.13.15.tgz#d8cb155b3e3a4c386339b98895cc798451682b34"
+  integrity sha512-8F9e2kYTk55cdRKlBApjhjcgYdswYIUqbgHzdnvj4ezE8PPeOIhwPfElXmBrQHrKz4W1CSNWJg6r2HKb8OslWA==
 
 babel-plugin-syntax-trailing-function-commas@^7.0.0-beta.0:
   version "7.0.0-beta.0"
@@ -4515,9 +4515,9 @@ react-native-safe-area-context@3.1.4:
   integrity sha512-bXx3hqz4LovFoMnJIRGIWL2oJ/PHadXviBKvgZV9yNErtURQLJSn0yfQytVtiqslhaBMZOJwH4R6HiClyofvBg==
 
 react-native-web@~0.13.12:
-  version "0.13.14"
-  resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.13.14.tgz#6a9144ffd2bcae07116efee827b99b20c9a0623d"
-  integrity sha512-tadUswGcXbH7pNTIGR41I2uqN/YrqGMnRTHbVU/ENGk2lps1W75ty+SHtWsWBEdYF4e2zOw8Dd/AJeD5kbat0A==
+  version "0.13.15"
+  resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.13.15.tgz#093f45184cda4d8690f7ddf6ba34c02089a2648b"
+  integrity sha512-072LD7brVPk0vbOqZyGghsXcfcgRnXtQ4jPUrLAdt3KMSLsdyS2rHtWte7dwoh8vZVae32MsWBE2r4NOMVvrRA==
   dependencies:
     array-find-index "^1.0.2"
     create-react-class "^15.6.2"
