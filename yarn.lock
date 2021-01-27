@@ -1030,15 +1030,15 @@
     "@babel/preset-env" "^7.4.4"
     "@babel/preset-typescript" "^7.3.3"
 
-"@expo/config-plugins@1.0.15":
-  version "1.0.15"
-  resolved "https://registry.yarnpkg.com/@expo/config-plugins/-/config-plugins-1.0.15.tgz#df26cd77a3300d7f185047afb9d767ccb4565986"
-  integrity sha512-7QNCVlMFPZOEuaQNX9dtZZC13NUwmOMdutD/1vebrIRj/MW+e1sDg19tKlqWTe1xns5boaIdOAQSo69I4vyybw==
+"@expo/config-plugins@1.0.16":
+  version "1.0.16"
+  resolved "https://registry.yarnpkg.com/@expo/config-plugins/-/config-plugins-1.0.16.tgz#e6fa84fc5f7d4354c34f2ca27dc9c70d828faa35"
+  integrity sha512-j94Seae1PHkHdUYN3GPphBOM+XdddEPh9BSer0llRcwIJyB3+eJzefyBQDgEDPvKmAAX+Psc2L5iZOOOuFyqaA==
   dependencies:
     "@expo/config-types" "^40.0.0-beta.2"
     "@expo/configure-splash-screen" "0.3.2"
     "@expo/image-utils" "0.3.10"
-    "@expo/json-file" "8.2.25"
+    "@expo/json-file" "8.2.26"
     "@expo/plist" "0.0.11"
     find-up "~5.0.0"
     fs-extra "9.0.0"
@@ -1055,15 +1055,15 @@
   integrity sha512-t9pHCQMXOP4nwd7LGXuHkLlFy0JdfknRSCAeVF4Kw2/y+5OBbR9hW9ZVnetpBf0kORrekgiI7K/qDaa3hh5+Qg==
 
 "@expo/config@^3.3.18":
-  version "3.3.24"
-  resolved "https://registry.yarnpkg.com/@expo/config/-/config-3.3.24.tgz#9b8c0b8351b4f43057c811760b6df1aee411e4bd"
-  integrity sha512-bI99Shs8c9HBtebvgunVCslw5YVHVxsMzwIgSo4ggqRYgM1AibgVx/3BVNF2yQpEcac+Xt2+Zr05E+yuEd6wEg==
+  version "3.3.25"
+  resolved "https://registry.yarnpkg.com/@expo/config/-/config-3.3.25.tgz#41d7bd0adb447c937431c1e740bde43e6f1c8e77"
+  integrity sha512-b9V/2AqooybtQN7tgW6d8nrC/zSkUVocujqt1nIZQRmuEdJEG/7X9ZsZ9Dad1yjnbtZYgKF0S1q2s/V1ebFsvQ==
   dependencies:
     "@babel/core" "7.9.0"
     "@expo/babel-preset-cli" "0.2.18"
-    "@expo/config-plugins" "1.0.15"
+    "@expo/config-plugins" "1.0.16"
     "@expo/config-types" "^40.0.0-beta.2"
-    "@expo/json-file" "8.2.25"
+    "@expo/json-file" "8.2.26"
     fs-extra "9.0.0"
     getenv "0.7.0"
     glob "7.1.6"
@@ -1106,15 +1106,15 @@
     semver "7.3.2"
     tempy "0.3.0"
 
-"@expo/json-file@8.2.25":
-  version "8.2.25"
-  resolved "https://registry.yarnpkg.com/@expo/json-file/-/json-file-8.2.25.tgz#3f7f403612efab98b6043868b8bb8b27a7189ed1"
-  integrity sha512-KFX6grWVzttaDskq/NK8ByqFPgpDZGFnyeZVeecGoKx5kU61zuR7/xQM04OvN6BNXq3jTUst1TyS8fXEfJuscA==
+"@expo/json-file@8.2.26":
+  version "8.2.26"
+  resolved "https://registry.yarnpkg.com/@expo/json-file/-/json-file-8.2.26.tgz#2435224cd7e6288080252b4f6be3775762100588"
+  integrity sha512-9ahw1ztHtRhXE8/kTiOpXTXJ/Uq2lF8UlIIcJjoE5DCFA0epL8tnDiu6RDzXMhjhH1ytiojt2sYC4+lV29JPAA==
   dependencies:
     "@babel/code-frame" "~7.10.4"
     fs-extra "9.0.0"
     json5 "^1.0.1"
-    lodash "^4.17.15"
+    lodash "^4.17.19"
     write-file-atomic "^2.3.0"
 
 "@expo/plist@0.0.11":
@@ -2802,16 +2802,16 @@ es-abstract@^1.18.0-next.1:
     string.prototype.trimstart "^1.0.3"
 
 es-get-iterator@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/es-get-iterator/-/es-get-iterator-1.1.1.tgz#b93ddd867af16d5118e00881396533c1c6647ad9"
-  integrity sha512-qorBw8Y7B15DVLaJWy6WdEV/ZkieBcu6QCq/xzWzGOKJqgG1j754vXRfZ3NY7HSShneqU43mPB4OkQBTkvHhFw==
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/es-get-iterator/-/es-get-iterator-1.1.2.tgz#9234c54aba713486d7ebde0220864af5e2b283f7"
+  integrity sha512-+DTO8GYwbMCwbywjimwZMHp8AuYXOS2JZFWoi2AlPOS3ebnII9w/NLpNZtA7A0YLaVDw+O7KFCeoIV7OPvM7hQ==
   dependencies:
-    call-bind "^1.0.0"
-    get-intrinsic "^1.0.1"
+    call-bind "^1.0.2"
+    get-intrinsic "^1.1.0"
     has-symbols "^1.0.1"
-    is-arguments "^1.0.4"
-    is-map "^2.0.1"
-    is-set "^2.0.1"
+    is-arguments "^1.1.0"
+    is-map "^2.0.2"
+    is-set "^2.0.2"
     is-string "^1.0.5"
     isarray "^2.0.5"
 
@@ -3343,7 +3343,7 @@ get-caller-file@^2.0.1:
   resolved "https://registry.yarnpkg.com/get-caller-file/-/get-caller-file-2.0.5.tgz#4f94412a82db32f36e3b0b9741f8a97feb031f7e"
   integrity sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg==
 
-get-intrinsic@^1.0.1, get-intrinsic@^1.0.2:
+get-intrinsic@^1.0.1, get-intrinsic@^1.0.2, get-intrinsic@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/get-intrinsic/-/get-intrinsic-1.1.0.tgz#892e62931e6938c8a23ea5aaebcfb67bd97da97e"
   integrity sha512-M11rgtQp5GZMZzDL7jLTNxbDfurpzuau5uqRWDPvlHjfvg3TdScAZo96GLvhMjImrmR8uAt0FS2RLoMrfWGKlg==
@@ -3588,7 +3588,7 @@ is-accessor-descriptor@^1.0.0:
   dependencies:
     kind-of "^6.0.0"
 
-is-arguments@^1.0.4:
+is-arguments@^1.0.4, is-arguments@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/is-arguments/-/is-arguments-1.1.0.tgz#62353031dfbee07ceb34656a6bde59efecae8dd9"
   integrity sha512-1Ij4lOMPl/xB5kBDn7I+b2ttPMKa8szhEIrXDuXQD/oe3HJLTLhqhgGspwgyGd6MOywBUqVvYicF72lkgDnIHg==
@@ -3710,7 +3710,7 @@ is-function@^1.0.1:
   resolved "https://registry.yarnpkg.com/is-function/-/is-function-1.0.2.tgz#4f097f30abf6efadac9833b17ca5dc03f8144e08"
   integrity sha512-lw7DUp0aWXYg+CBCN+JKkcE0Q2RayZnSvnZBlwgxHBQhqt5pZNVy4Ri7H9GmmXkdu7LUthszM+Tor1u/2iBcpQ==
 
-is-map@^2.0.1:
+is-map@^2.0.1, is-map@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/is-map/-/is-map-2.0.2.tgz#00922db8c9bf73e81b7a335827bc2a43f2b91127"
   integrity sha512-cOZFQQozTha1f4MxLFzlgKYPTyj26picdZTx82hbc/Xf4K/tZOOXSCkMvU4pKioRXGDLJRn0GM7Upe7kR721yg==
@@ -3751,7 +3751,7 @@ is-regex@^1.1.1:
   dependencies:
     has-symbols "^1.0.1"
 
-is-set@^2.0.1:
+is-set@^2.0.1, is-set@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/is-set/-/is-set-2.0.2.tgz#90755fa4c2562dc1c5d4024760d6119b94ca18ec"
   integrity sha512-+2cnTEZeY5z/iXGbLhPrOAaK/Mau5k5eXq9j14CpRTftq0pAJu2MwVRSZhyZWBzx3o6X795Lz6Bpb6R0GKf37g==
