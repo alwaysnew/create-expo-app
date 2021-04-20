@@ -1095,15 +1095,15 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@expo/config-plugins@1.0.26", "@expo/config-plugins@^1.0.18":
-  version "1.0.26"
-  resolved "https://registry.yarnpkg.com/@expo/config-plugins/-/config-plugins-1.0.26.tgz#afe2463aba3a54ab7e27e2c2e4ac325ced60d467"
-  integrity sha512-zfdNL7FgM2yCYSX0sq7PUkcE9pk+w6GfgCnnXuYH5JOOi2UYtiOu0FgYc0M+ZmUlhNkTtiBZDt8aPGcikopwpw==
+"@expo/config-plugins@1.0.27", "@expo/config-plugins@^1.0.18":
+  version "1.0.27"
+  resolved "https://registry.yarnpkg.com/@expo/config-plugins/-/config-plugins-1.0.27.tgz#e1a8d2cc1d31f1fc21695cd4c4b6b05afbcc8519"
+  integrity sha512-rdLykx/RgcfYmJEZ23+d1wH6RxifMsPh+q8TSzsBb3yXQPU/oCz14/RFLgNojWvKTAjTo9kNu5erIVlwDIJHxQ==
   dependencies:
     "@expo/config-types" "^40.0.0-beta.2"
     "@expo/configure-splash-screen" "0.3.4"
-    "@expo/image-utils" "0.3.12"
-    "@expo/json-file" "8.2.28"
+    "@expo/image-utils" "0.3.13"
+    "@expo/json-file" "8.2.29"
     "@expo/plist" "0.0.12"
     find-up "~5.0.0"
     fs-extra "9.0.0"
@@ -1120,18 +1120,18 @@
   resolved "https://registry.yarnpkg.com/@expo/config-types/-/config-types-40.0.0-beta.2.tgz#4fea4ef5654d02218b02b0b3772529a9ce5b0471"
   integrity sha512-t9pHCQMXOP4nwd7LGXuHkLlFy0JdfknRSCAeVF4Kw2/y+5OBbR9hW9ZVnetpBf0kORrekgiI7K/qDaa3hh5+Qg==
 
-"@expo/config@3.3.36", "@expo/config@^3.3.35":
-  version "3.3.36"
-  resolved "https://registry.yarnpkg.com/@expo/config/-/config-3.3.36.tgz#730ad122d5ede4a3503260241c5cb780edf46d9f"
-  integrity sha512-qUaq3Ct3O2uML3ISsjekol3UNTQUvJm2AMrRjlwYXHzxG2EVIHNaWseOZoFtXxrfAj3IqWXEtS9avfho+nbgBg==
+"@expo/config@3.3.37", "@expo/config@^3.3.35":
+  version "3.3.37"
+  resolved "https://registry.yarnpkg.com/@expo/config/-/config-3.3.37.tgz#918b40f2ab8f419180febc619b3f572d631a13e1"
+  integrity sha512-RJrGwjEWGvRVo9zZ4T0q/5bwW6ewf2FsIS5Cj79IOS9AFu1LNJpUuI6PdJ6VX6O4xR3BDxCtL713rWgihQfbmg==
   dependencies:
     "@babel/core" "7.9.0"
     "@babel/plugin-proposal-class-properties" "~7.12.13"
     "@babel/preset-env" "~7.12.13"
     "@babel/preset-typescript" "~7.12.13"
-    "@expo/config-plugins" "1.0.26"
+    "@expo/config-plugins" "1.0.27"
     "@expo/config-types" "^40.0.0-beta.2"
-    "@expo/json-file" "8.2.28"
+    "@expo/json-file" "8.2.29"
     fs-extra "9.0.0"
     getenv "^1.0.0"
     glob "7.1.6"
@@ -1156,10 +1156,10 @@
     xcode "^3.0.0"
     xml-js "^1.6.11"
 
-"@expo/image-utils@0.3.12":
-  version "0.3.12"
-  resolved "https://registry.yarnpkg.com/@expo/image-utils/-/image-utils-0.3.12.tgz#23a7dbf2cfe40fa9dd0c355fe7b4ca15ef83808e"
-  integrity sha512-QMMAjyCJUFXI8b6AOrVC40gubkt++qYfRJdKgbegf9JHQNul/O4Q1ENWTgid+PH0EUqlMLbv6kJ6ai0ZjO08kw==
+"@expo/image-utils@0.3.13":
+  version "0.3.13"
+  resolved "https://registry.yarnpkg.com/@expo/image-utils/-/image-utils-0.3.13.tgz#cba070a61ce89e6c113b8e6afd5655cb83da6377"
+  integrity sha512-BpKoFVJBjG9H5AU040Skrm3R2uDGpWXBU/4TivB5H10cyJphoJKp3GNJVPHYLOVc70OtAxjWDIhLMW6xsWfrgw==
   dependencies:
     "@expo/spawn-async" "1.5.0"
     chalk "^4.0.0"
@@ -1173,10 +1173,10 @@
     semver "7.3.2"
     tempy "0.3.0"
 
-"@expo/json-file@8.2.28":
-  version "8.2.28"
-  resolved "https://registry.yarnpkg.com/@expo/json-file/-/json-file-8.2.28.tgz#9218bb70ad12d8be03c6376990b01fbeb4a15b72"
-  integrity sha512-C28McDuCIOmCmp6e2ZgIpNaT/fZG+L3/WFv5x2DCrooOQmamrkLSH/4Dib0NUmLgWVhgIhXL2hU4RB+LjzVvkQ==
+"@expo/json-file@8.2.29":
+  version "8.2.29"
+  resolved "https://registry.yarnpkg.com/@expo/json-file/-/json-file-8.2.29.tgz#5e66c4c1dc531a583fe654d99fe417246d91741d"
+  integrity sha512-9C8XwpJiJN9fyClnnNDSTh034zJU9hon6MCUqbBa4dZYQN7OZ00KFZEpbtjy+FndE7YD+KagDxRD6O1HS5vU0g==
   dependencies:
     "@babel/code-frame" "~7.10.4"
     fs-extra "9.0.0"
@@ -1184,11 +1184,11 @@
     write-file-atomic "^2.3.0"
 
 "@expo/metro-config@^0.1.59":
-  version "0.1.62"
-  resolved "https://registry.yarnpkg.com/@expo/metro-config/-/metro-config-0.1.62.tgz#bdb339efce537b39a491411a6df36d63f287d5dc"
-  integrity sha512-CvEtzryyLCDky9faY0/+rilkF4wS/KlbdtCbRk5esu5eH3dc0hztEap6TrIP4axQJ481uHRxy/dN2FBivQfLdg==
+  version "0.1.63"
+  resolved "https://registry.yarnpkg.com/@expo/metro-config/-/metro-config-0.1.63.tgz#cc502e8f14b90908b4a37db2caf3e45355acb4b2"
+  integrity sha512-NIJ4vvVwyHaOlkFAvP17bSazc+vmAX7wyQ/sT85DEIbwxltfEXxZIcJUGxObf5SgR5V5iPurwrGyS/7HPcA7eA==
   dependencies:
-    "@expo/config" "3.3.36"
+    "@expo/config" "3.3.37"
     chalk "^4.1.0"
     getenv "^1.0.0"
     metro-react-native-babel-transformer "^0.59.0"
@@ -2234,7 +2234,7 @@ braces@^2.3.1:
     split-string "^3.0.2"
     to-regex "^3.0.1"
 
-browserslist@^4.14.5, browserslist@^4.16.3:
+browserslist@^4.14.5, browserslist@^4.16.4:
   version "4.16.4"
   resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.16.4.tgz#7ebf913487f40caf4637b892b268069951c35d58"
   integrity sha512-d7rCxYV8I9kj41RH8UKYnvDYCRENUlHRgyXy/Rhr/1BaeLGfiCptEdFE8MIrvGfWbBFNjVYx76SQWvNX1j+/cQ==
@@ -2351,9 +2351,9 @@ camelcase@^5.0.0, camelcase@^5.3.1:
   integrity sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg==
 
 caniuse-lite@^1.0.30001208:
-  version "1.0.30001210"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001210.tgz#7c12d029e93b725cc2fe44a5eaabd9b838250d33"
-  integrity sha512-avmGf0Jo00I8vB0I89J4Pba48kddasErV7slu7wrkyM5uY9gE5P+B+V3hjABv8Hp4YNG2nBqIUFUXlnqNteXEA==
+  version "1.0.30001211"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001211.tgz#be40d528bb10272eba0037a88adc40054810f8e2"
+  integrity sha512-v3GXWKofIkN3PkSidLI5d1oqeKNsam9nQkqieoMhP87nxOY0RPDC8X2+jcv8pjV4dRozPLSoMqNii9sDViOlIg==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -2590,11 +2590,11 @@ copy-descriptor@^0.1.0:
   integrity sha1-Z29us8OZl8LuGsOpJP1hJHSPV40=
 
 core-js-compat@^3.8.0, core-js-compat@^3.9.0, core-js-compat@^3.9.1:
-  version "3.10.1"
-  resolved "https://registry.yarnpkg.com/core-js-compat/-/core-js-compat-3.10.1.tgz#62183a3a77ceeffcc420d907a3e6fc67d9b27f1c"
-  integrity sha512-ZHQTdTPkqvw2CeHiZC970NNJcnwzT6YIueDMASKt+p3WbZsLXOcoD392SkcWhkC0wBBHhlfhqGKKsNCQUozYtg==
+  version "3.10.2"
+  resolved "https://registry.yarnpkg.com/core-js-compat/-/core-js-compat-3.10.2.tgz#0a675b4e1cde599616322a72c8886bcf696f3ec3"
+  integrity sha512-IGHnpuaM1N++gLSPI1F1wu3WXICPxSyj/Q++clcwsIOnUVp5uKUIPl/+6h0TQ112KU3fMiSxqJuM+OrCyKj5+A==
   dependencies:
-    browserslist "^4.16.3"
+    browserslist "^4.16.4"
     semver "7.0.0"
 
 core-js@^1.0.0:
@@ -2608,9 +2608,9 @@ core-js@^2.4.1:
   integrity sha512-Kb2wC0fvsWfQrgk8HU5lW6U/Lcs8+9aaYcy4ZFc6DDlo4nZ7n70dEgE5rtR0oG6ufKDUnrwfWL1mXR5ljDatrQ==
 
 core-js@^3.6.5:
-  version "3.10.1"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.10.1.tgz#e683963978b6806dcc6c0a4a8bd4ab0bdaf3f21a"
-  integrity sha512-pwCxEXnj27XG47mu7SXAwhLP3L5CrlvCB91ANUkIz40P27kUcvNfSdvyZJ9CLHiVoKSp+TTChMQMSKQEH/IQxA==
+  version "3.10.2"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.10.2.tgz#17cb038ce084522a717d873b63f2b3ee532e2cd5"
+  integrity sha512-W+2oVYeNghuBr3yTzZFQ5rfmjZtYB/Ubg87R5YOmlGrIb+Uw9f7qjUbhsj+/EkXhcV7eOD3jiM4+sgraX3FZUw==
 
 core-util-is@~1.0.0:
   version "1.0.2"
@@ -2669,9 +2669,9 @@ css-in-js-utils@^2.0.0:
     isobject "^3.0.1"
 
 csstype@^3.0.2:
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.7.tgz#2a5fb75e1015e84dd15692f71e89a1450290950b"
-  integrity sha512-KxnUB0ZMlnUWCsx2Z8MUsr6qV6ja1w9ArPErJaJaF8a5SOWoHLIszeCTKGRGRgtLgYrs1E8CHkNSP1VZTTPc9g==
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.8.tgz#d2266a792729fb227cd216fb572f43728e1ad340"
+  integrity sha512-jXKhWqXPmlUeoQnF/EhTtTl4C9SnrxSH/jZUih3jmO6lBKr99rP3/+FmrMj4EFpOXzMtXHAZkd3x0E6h6Fgflw==
 
 dayjs@^1.8.15:
   version "1.10.4"
@@ -5133,9 +5133,9 @@ range-parser@~1.2.1:
   integrity sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg==
 
 react-devtools-core@^4.6.0:
-  version "4.12.2"
-  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-4.12.2.tgz#4198f42fec867ed82dd0ee0f059b450e703b2b1e"
-  integrity sha512-cvAiJCSIIan2A22o4j4Twc7PdDrwqiAQVBeZ+osS2T/wv2Ua3a0J8Sgx4pTH5Y7VoWn5WiGCHkAW4S1lYl3kcA==
+  version "4.12.3"
+  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-4.12.3.tgz#0cce88e2a34f6988af55509829c29264062faf6d"
+  integrity sha512-wd3ol076oOxaobuB/dXz9hzqXUH/Oyuz3f5JeuEPyTBPPzs4USf3MB7clJekk0rvA1d1AdT5/mXmoQupjdGFNQ==
   dependencies:
     shell-quote "^1.6.1"
     ws "^7"
