@@ -1897,9 +1897,9 @@ camelcase@^6.0.0:
   integrity sha512-c7wVvbw3f37nuobQNtgsgG9POC9qMbNuMQmTCqZv23b6MIz0fcYpBiOlv9gEN/hdLdnZTDQhg6e9Dq5M1vKvfg==
 
 caniuse-lite@^1.0.30001274:
-  version "1.0.30001277"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001277.tgz#9416dae5e075f47eacd8e0475ae1dcc5a20e9ca5"
-  integrity sha512-J2WtYj2Pl6LBEG214XmbGw1gzZEsYuinQFPqYtpZDB3/vm49qNlrcbJrTMkHKmdRDdmXYwkG0tgOBJsuI+J12Q==
+  version "1.0.30001278"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001278.tgz#51cafc858df77d966b17f59b5839250b24417fff"
+  integrity sha512-mpF9KeH8u5cMoEmIic/cr7PNS+F5LWBk0t2ekGT60lFf0Wq+n9LspAj0g3P+o7DQhD3sUdlMln4YFAWhFYn9jg==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -2456,7 +2456,7 @@ expo-modules-autolinking@~0.3.3:
     find-up "~5.0.0"
     fs-extra "^9.1.0"
 
-expo-modules-core@~0.4.4, expo-modules-core@~0.4.5:
+expo-modules-core@~0.4.4, expo-modules-core@~0.4.7:
   version "0.4.7"
   resolved "https://registry.yarnpkg.com/expo-modules-core/-/expo-modules-core-0.4.7.tgz#1ea4de95bb4ac1ee125efe50b6f25055c36d86c6"
   integrity sha512-boEbB3tAYO7WkgcaXToQLY8IUeEGOZeDF+StTL38FA0l8jzJwwQLU7TaWjWEMGfxvvn7KP7V7kFudJKc7dak3g==
@@ -2470,9 +2470,9 @@ expo-status-bar@~1.1.0:
   integrity sha512-XgAbGfDV/Q6br2h4yzQwcZRYi37bZ/nvc06vvaJ7i7w9tRxb05OJmXBxl7ywkKlFCMcN6q3Miaf2wnzEgMwJoQ==
 
 expo@~43.0.0:
-  version "43.0.1"
-  resolved "https://registry.yarnpkg.com/expo/-/expo-43.0.1.tgz#accd4998846e5d3c7ea743c7cf333ce918af150a"
-  integrity sha512-1F98CftAvTDNQPkhTSSYpcr5eiw/R0op3RXcV5GkJBTw67FvZ6JI+CsQ5iu2FICKnE51WKjH2y26V7+cjXboIg==
+  version "43.0.2"
+  resolved "https://registry.yarnpkg.com/expo/-/expo-43.0.2.tgz#52ee286d0834b1e07812f03c37309073f9a92c0d"
+  integrity sha512-DeNYkRM7mPOlCOcORI4FUyt13Rbq4wfRDtD6hbo7oN6OyP5NlACtRZ3ZPessXO93v/HrZBHYCLmydW6vjhnCyg==
   dependencies:
     "@babel/runtime" "^7.14.0"
     "@expo/metro-config" "~0.1.84"
@@ -2486,7 +2486,7 @@ expo@~43.0.0:
     expo-font "~10.0.3"
     expo-keep-awake "~10.0.0"
     expo-modules-autolinking "~0.3.3"
-    expo-modules-core "~0.4.5"
+    expo-modules-core "~0.4.7"
     fbemitter "^2.1.1"
     invariant "^2.2.2"
     md5-file "^3.2.3"
