@@ -1882,11 +1882,11 @@
     nanoid "^3.1.23"
 
 "@remix-run/node@^2.7.2":
-  version "2.9.1"
-  resolved "https://registry.yarnpkg.com/@remix-run/node/-/node-2.9.1.tgz#ac8be733eb96ffa25abf7e9691bfbc7dbba17cc9"
-  integrity sha512-shicVsSmXepj4zotWHR2kLmyYCxQ25mHmfBL11ODIcIs7iSmQO+W7CNbmX1jcRvhHki/v+S/n4fMm0iKNeJ92w==
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/@remix-run/node/-/node-2.9.2.tgz#0dedfb0d2177ebe71de16dba00abe941081b3ba8"
+  integrity sha512-2Mt2107pfelz4T+ziDBef3P4A7kgPqCDshnEYCVGxInivJ3HHwAKUcb7MhGa8uMMMA6LMWxbAPYNHPzC3iKv2A==
   dependencies:
-    "@remix-run/server-runtime" "2.9.1"
+    "@remix-run/server-runtime" "2.9.2"
     "@remix-run/web-fetch" "^4.4.2"
     "@web3-storage/multipart-parser" "^1.0.0"
     cookie-signature "^1.1.0"
@@ -1894,17 +1894,17 @@
     stream-slice "^0.1.2"
     undici "^6.10.1"
 
-"@remix-run/router@1.16.0":
-  version "1.16.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/router/-/router-1.16.0.tgz#0e10181e5fec1434eb071a9bc4bdaac843f16dcc"
-  integrity sha512-Quz1KOffeEf/zwkCBM3kBtH4ZoZ+pT3xIXBG4PPW/XFtDP7EGhtTiC2+gpL9GnR7+Qdet5Oa6cYSvwKYg6kN9Q==
+"@remix-run/router@1.16.1":
+  version "1.16.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/router/-/router-1.16.1.tgz#73db3c48b975eeb06d0006481bde4f5f2d17d1cd"
+  integrity sha512-es2g3dq6Nb07iFxGk5GuHN20RwBZOsuDQN7izWIisUcv9r+d2C5jQxqmgkdebXgReWfiyUabcki6Fg77mSNrig==
 
-"@remix-run/server-runtime@2.9.1":
-  version "2.9.1"
-  resolved "https://registry.yarnpkg.com/@remix-run/server-runtime/-/server-runtime-2.9.1.tgz#1ee1c8040a079fdad2ff13781c76404c22fd2b6a"
-  integrity sha512-6rRPiR+eMdTPkDojlYiZohVzXkD3+3X55ZvD78axMVocwGcDFFllpmgH9NSR2RKHW9eZDZUfKvNCwd/i9W6Xog==
+"@remix-run/server-runtime@2.9.2":
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/@remix-run/server-runtime/-/server-runtime-2.9.2.tgz#40e62f0005bcd7ee5d72f4f85249a7dec6405dad"
+  integrity sha512-dX37FEeMVVg7KUbpRhX4hD0nUY0Sscz/qAjU4lYCdd6IzwJGariTmz+bQTXKCjploZuXj09OQZHSOS/ydkUVDA==
   dependencies:
-    "@remix-run/router" "1.16.0"
+    "@remix-run/router" "1.16.1"
     "@types/cookie" "^0.6.0"
     "@web3-storage/multipart-parser" "^1.0.0"
     cookie "^0.6.0"
@@ -3392,9 +3392,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.668:
-  version "1.4.762"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.762.tgz#c29c9d47cf7cc128a9c364baa28adbadde95a47c"
-  integrity sha512-rrFvGweLxPwwSwJOjIopy3Vr+J3cIPtZzuc74bmlvmBIgQO3VYJDvVrlj94iKZ3ukXUH64Ex31hSfRTLqvjYJQ==
+  version "1.4.763"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.763.tgz#64f2041ed496fd6fc710b9be806fe91da9334f91"
+  integrity sha512-k4J8NrtJ9QrvHLRo8Q18OncqBCB7tIUyqxRcJnlonQ0ioHKYB988GcDFF3ZePmnb8eHEopDs/wPHR/iGAFgoUQ==
 
 emittery@^0.13.1:
   version "0.13.1"
@@ -7819,9 +7819,9 @@ undici-types@~5.26.4:
   integrity sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==
 
 undici@^6.10.1:
-  version "6.16.0"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-6.16.0.tgz#3b2e3dc617c6bd51b6885f15d58c172cc8b6fc40"
-  integrity sha512-HQfVddOTb5PJtfLnJ1Px8bNGyIg/z7WTj1hjUSna1Itsv59Oca9JdclIU08ToNqvWWXjFLRzc9rqjnpfw5UWcQ==
+  version "6.16.1"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-6.16.1.tgz#ff8f49c56e5a8629f92ad2ce00d4841b9619b19e"
+  integrity sha512-NeNiTT7ixpeiL1qOIU/xTVpHpVP0svmI6PwoCKaMGaI5AsHOaRdwqU/f7Fi9eyU4u03nd5U/BC8wmRMnS9nqoA==
 
 unicode-canonical-property-names-ecmascript@^2.0.0:
   version "2.0.0"
