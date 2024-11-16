@@ -1653,17 +1653,17 @@
     nullthrows "^1.1.1"
 
 "@react-navigation/bottom-tabs@^7.0.0":
-  version "7.0.3"
-  resolved "https://registry.yarnpkg.com/@react-navigation/bottom-tabs/-/bottom-tabs-7.0.3.tgz#187c915d6518980f5de72130c430cec48bbc0cd5"
-  integrity sha512-pB8oBDV/NkKsi6c2cxd2Upq0u1xwgjLbTFoxvw8W4LN4hH4K4v5XcORe8QacFifGeKyND7gzqZkIS6gW9xJY/A==
+  version "7.0.4"
+  resolved "https://registry.yarnpkg.com/@react-navigation/bottom-tabs/-/bottom-tabs-7.0.4.tgz#671a2cddd9556104f04cecb519a922d0c56c6996"
+  integrity sha512-eYeuQ/hlpa9NtkCh38xAFID7iMAcLs5ZR2DgKU/U5hxIv9mEXrjxUgCenGQwKZhIIWA32c1rnsyQFPjhmyTO/A==
   dependencies:
-    "@react-navigation/elements" "^2.0.2"
+    "@react-navigation/elements" "^2.0.3"
     color "^4.2.3"
 
-"@react-navigation/core@^7.0.2":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@react-navigation/core/-/core-7.0.2.tgz#8fd81ab0f8bd0a9d2dee24ab83d4333b216b7ae5"
-  integrity sha512-LbDVHSxX870QVnlndqDFFP6Kulc0atpCiswiM7f6GDIHJEniz3XaX7Wg9rliZ9L35/Uy81/F7UlF/USSU7LM1w==
+"@react-navigation/core@^7.0.3":
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@react-navigation/core/-/core-7.0.3.tgz#bac011a459ae62bb91e3bc8adeb862f05ac19a88"
+  integrity sha512-BYfsHuPT/Z50CWw1chTPBzlIG+y/sTQEYXPAN+WvHkS2UbCFvJ3zN/wYfb08RFcyX8+5cYdiZAfC4Ui8hJjJ/A==
   dependencies:
     "@react-navigation/routers" "^7.0.0"
     escape-string-regexp "^4.0.0"
@@ -1673,27 +1673,27 @@
     use-latest-callback "^0.2.1"
     use-sync-external-store "^1.2.2"
 
-"@react-navigation/elements@^2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@react-navigation/elements/-/elements-2.0.2.tgz#f80239c1c2f3cc27183915f5d2ec0d013cd060f0"
-  integrity sha512-RgvKIyrj6cecborOg+QcnI0pvKaOXDPAwnZ+0HCnnWQROTTQEOt7jYpx4B4YIqNW3ttc2EZRIPr069LYUmlViQ==
+"@react-navigation/elements@^2.0.3":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@react-navigation/elements/-/elements-2.0.3.tgz#eb5d2c0d1d5311ee733180c7fe6dfa1a010d215e"
+  integrity sha512-vrfEmXnYNv1qTUTEAup5ycsd2rQirvZx/5620qeWHMSykqblo0imtk0LoLNsuimrUfDSsrjCckux3/atX2jAMg==
   dependencies:
     color "^4.2.3"
 
 "@react-navigation/native-stack@^7.0.0":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@react-navigation/native-stack/-/native-stack-7.0.2.tgz#9946ce68f3f5832f46da08db5272ec73aa634260"
-  integrity sha512-d7jJdDhZdBWYP+rQJQ4JRQkotM+0Vqkb7Hc16ARhetoBH/IzVtzC5g7VTZg1ognzNRrZ34NlT4+IB3KH34/2/g==
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@react-navigation/native-stack/-/native-stack-7.0.3.tgz#23642888921b19cfcc527f40697434da6b330cf4"
+  integrity sha512-375n9YQ+9DzwlAsW5Jb1PBiT3maXVb8ux/y4tpGikfBM/Vh19OQ2oGNSu0wl8rujiM/MZVkWS9ZIc8IEKd0kWg==
   dependencies:
-    "@react-navigation/elements" "^2.0.2"
+    "@react-navigation/elements" "^2.0.3"
     warn-once "^0.1.1"
 
 "@react-navigation/native@^7.0.0":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@react-navigation/native/-/native-7.0.2.tgz#193364690ca0d35fa31801d45a36f5baf1ce6efe"
-  integrity sha512-r/q7HR953H/VDIL/C1krQh9c11KgDhiRlvbkf0kGVN2WXQuiCVCqeDMoQzkgER/NbICPFLPgoqVRM8nnUbSCRA==
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@react-navigation/native/-/native-7.0.3.tgz#24707bf0d14a040c44b4c4dcaa85c59f7588506b"
+  integrity sha512-GzHvM8HgCjLW+314+gFv2ElN6di4q4KUI7TxQ62lpZc2moi9p8Z78/mTHJ7DZeYjit0Z5ISF9Le+kFhH68avMw==
   dependencies:
-    "@react-navigation/core" "^7.0.2"
+    "@react-navigation/core" "^7.0.3"
     escape-string-regexp "^4.0.0"
     fast-deep-equal "^3.1.3"
     nanoid "3.3.7"
@@ -3082,9 +3082,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.41:
-  version "1.5.59"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.59.tgz#220d48099bf51dfb804bbb2386592c16c232de38"
-  integrity sha512-faAXB6+gEbC8FsiRdpOXgOe4snP49YwjiXynEB8Mp7sUx80W5eN+BnnBHJ/F7eIeLzs+QBfDD40bJMm97oEFcw==
+  version "1.5.62"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.62.tgz#8289468414b0b0b3e9180ef619a763555debe612"
+  integrity sha512-t8c+zLmJHa9dJy96yBZRXGQYoiCEnHYgFwn1asvSPZSUdVxnB62A4RASd7k41ytG3ErFBA0TpHlKg9D9SQBmLg==
 
 emittery@^0.13.1:
   version "0.13.1"
@@ -3345,10 +3345,10 @@ expo-modules-core@2.0.3:
   dependencies:
     invariant "^2.2.4"
 
-expo-router@~4.0.5:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/expo-router/-/expo-router-4.0.5.tgz#000866891f9d8cf43765ad75c81c4d134ab39dea"
-  integrity sha512-bZ2eLvY3I9BwkFRWhz71EA2clbYdb6iN83RY3clD6FGpDTzJ6/pxC+bwxtJpspblVqKUZgzYJR+i5cZ3dY9djA==
+expo-router@~4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/expo-router/-/expo-router-4.0.6.tgz#df2b77385b6305143adab2efb36917d68f0fe677"
+  integrity sha512-voEomHB7V6r7FlTMVJAxInbbo8+Y7VSuMroFmRCxr3YlcI0eY3R8QpqTVLn1Q66g1MVUCsWhq3nswC3TpHfT9A==
   dependencies:
     "@expo/metro-runtime" "4.0.0"
     "@expo/server" "^0.5.0"
@@ -3364,10 +3364,10 @@ expo-router@~4.0.5:
     semver "~7.6.3"
     server-only "^0.0.1"
 
-expo-splash-screen@~0.29.10:
-  version "0.29.10"
-  resolved "https://registry.yarnpkg.com/expo-splash-screen/-/expo-splash-screen-0.29.10.tgz#8c1f3b636b95df89305f54092ac94506751fb544"
-  integrity sha512-MYeBFitJvSGPCCLZMWJ1yTEJlXn549dIt35w8Fo/ErcbNaNmUI2Ew7pwIOGMTsPLPsB4I9Zm9LegPTWfcKFOrA==
+expo-splash-screen@~0.29.11:
+  version "0.29.11"
+  resolved "https://registry.yarnpkg.com/expo-splash-screen/-/expo-splash-screen-0.29.11.tgz#22641234e615dd48a20b1af423ff07aa0a9c2488"
+  integrity sha512-lDURVc7y+INe78cC2c0GFErmHxtiXLGmUCMJEdZqZraGDq8HUcYiZgLkr2vlKNEKZ/ZuUlExJIqwgo7I/mCSYA==
   dependencies:
     "@expo/prebuild-config" "^8.0.16"
 
@@ -4359,10 +4359,10 @@ jest-environment-node@^29.6.3, jest-environment-node@^29.7.0:
     jest-mock "^29.7.0"
     jest-util "^29.7.0"
 
-jest-expo@~52.0.1:
-  version "52.0.1"
-  resolved "https://registry.yarnpkg.com/jest-expo/-/jest-expo-52.0.1.tgz#161666c296c68a29fe8935bbef6a5c1f976b95e6"
-  integrity sha512-78MaE7t2Rkoyqbkx9xKhuP9tP6eQ4VZs6KmOCHu/foAI9gAvAgL5nwXoWRHMJN+IojxMqvtvLW4gjgoo99TKZg==
+jest-expo@~52.0.2:
+  version "52.0.2"
+  resolved "https://registry.yarnpkg.com/jest-expo/-/jest-expo-52.0.2.tgz#84aed0f7b58683143c63bff0e0e35bec925bcdfd"
+  integrity sha512-6xV/+IRw93Org1UlgIqu89Ex3vuPRozD5VqTS95AonHMgjb0XTHHhMmn+TdR1d3i3ziy7JFbWAMoBLwminIalw==
   dependencies:
     "@expo/config" "~10.0.4"
     "@expo/json-file" "^9.0.0"
